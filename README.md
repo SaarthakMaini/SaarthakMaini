@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Saarthak Maini. I am an open source enthusiast and have a love for coding! I document my work on different social platforms to review my progress
 <p align="center">
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://twitter.com/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  <a href="https://twitter.com/SaarthakMaini">
+    <img src="https://img.shields.io/twitter/follow/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a></p>
 
 <!--
