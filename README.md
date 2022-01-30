@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 My name is Saarthak Maini. I am an open source enthusiast and have a love for coding! I document my work on different social platforms to review my progress
+### Connect with me!
 <p align="center">
   <a href="https://twitter.com/SaarthakMaini">
     <img src="https://img.shields.io/twitter/follow/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a></p>
+  </a>
+<a href="https://linkedin.com/in/SaarthakMaini" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a></p>
 
 <!--
 **SaarthakMaini/SaarthakMaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
