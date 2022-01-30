@@ -20,7 +20,7 @@ My name is Saarthak Maini. I am an open source enthusiast and have a love for co
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /></p>
-### Connect with me!
+##  Connect with me!
 <p align="center">
   <a href="https://twitter.com/SaarthakMaini">
     <img src="https://img.shields.io/twitter/follow/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
