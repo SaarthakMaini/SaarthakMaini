@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Saarthak Maini. I am an open source enthusiast and have a love for coding! I document my work on different social platforms to review my progress
 
 <!--
 **SaarthakMaini/SaarthakMaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
