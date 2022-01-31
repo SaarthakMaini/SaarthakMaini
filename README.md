@@ -1,6 +1,21 @@
-# Hi there 👋
-My name is Saarthak Maini. I am an open source enthusiast and have a love for coding! I document my work on different social platforms to review my progress
-### Tech Stack
+# Hi there!! 👋
+My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love for `coding`! I document my work on different social platforms to review and get feedback on my progress!!
+### - 🌱 I’m currently learning ...
+* Java
+* Data Structures and Algorithms
+* DevOps and Cloud computing
+* Touch Typing
+* Django
+* JQuery
+* Node.js
+* Making a chrome extension
+
+### - 🔭 I’m currently working on ...
+* Participating in JWOC
+* Making a google chrome extension
+* Attending events
+
+
 ### Tech Stack
 
 
@@ -9,14 +24,9 @@ My name is Saarthak Maini. I am an open source enthusiast and have a love for co
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /></p>
