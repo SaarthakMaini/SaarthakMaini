@@ -1,7 +1,9 @@
 # Hi there!! 👋
 My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love for `coding`! I document my work on different social platforms to review and get feedback on my progress!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaarthakMaini" alt="SaarthakMaini" /> </p>
-### - 🌱 I’m currently learning ...
+
+
+###  - 🌱 I’m currently learning ...
 * Java
 * Data Structures and Algorithms
 * DevOps and Cloud computing
@@ -17,10 +19,10 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 * Attending events
 
 
-### Tech Stack
+### - Tech Stack
 
 
-<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=purple"/> 
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=purple"/> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -33,7 +35,7 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 
 
 ###  Connect with me!
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/SaarthakMaini">
     <img src="https://img.shields.io/twitter/follow/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
