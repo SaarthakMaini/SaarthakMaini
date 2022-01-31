@@ -30,7 +30,7 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /></p>
-##  Connect with me!
+###  Connect with me!
 <p align="center">
   <a href="https://twitter.com/SaarthakMaini">
     <img src="https://img.shields.io/twitter/follow/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
@@ -38,6 +38,7 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 <a href="https://www.linkedin.com/in/saarthak-maini-74849222a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SaarthakMaini.SaarthakMaini)
 
 <!--
 **SaarthakMaini/SaarthakMaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
