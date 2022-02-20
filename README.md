@@ -30,7 +30,7 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-%20DOM-green"/>
+  <img src="https://img.shields.io/badge/-%20DOM-purple?style=for-the-badge&logo=DOM&logoColor=purple"?/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /></p>
 
