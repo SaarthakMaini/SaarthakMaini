@@ -37,8 +37,8 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 
 ###  Connect with me!
 <p align="left">
-  <a href="https://twitter.com/SaarthakMaini">
-    <img src="https://img.shields.io/twitter/follow/SaarthakMaini?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  <a href="https://twitter.com/saartwts">
+    <img src="https://img.shields.io/twitter/follow/saartwts?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 <a href="https://www.linkedin.com/in/saarthak-maini-74849222a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
