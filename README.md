@@ -7,17 +7,13 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 * Java
 * Data Structures and Algorithms
 * DevOps and Cloud computing
-* Touch Typing
-* Django
+* JavaScript
+* TypeScript
 * JQuery
 * Node.js
 * Making a chrome extension
 
-### - 🔭 I’m currently working on ...
-* Participating in JWOC
-* Making a google chrome extension
-* Attending events
-
+// ### - 🔭 I’m currently working on ... 
 
 ### - Tech Stack
 
