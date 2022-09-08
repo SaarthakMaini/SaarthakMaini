@@ -1,9 +1,9 @@
-# Hi there!! 👋
+ Hi there!! 👋
 My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love for `coding`! I document my work on different social platforms to review and get feedback on my progress!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaarthakMaini" alt="SaarthakMaini" /> </p>
 
 
-###  - 🌱 I’m currently learning ...
+  - 🌱 I’m currently learning ...
 * Java
 * Data Structures and Algorithms
 * DevOps and Cloud computing
@@ -13,9 +13,9 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 * Node.js
 * Making a chrome extension
 
-// ### - 🔭 I’m currently working on ... 
+//  - 🔭 I’m currently working on ... 
 
-### - Tech Stack
+ - Tech Stack
 
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=purple"/> 
@@ -31,7 +31,7 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /></p>
 
 
-###  Connect with me!
+  Connect with me!
 <p align="left">
   <a href="https://twitter.com/saartwts">
     <img src="https://img.shields.io/twitter/follow/saartwts?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
