@@ -13,7 +13,7 @@ My name is **Saarthak Maini**. I am an `open source enthusiast` and have a love 
 * Node.js
 * Making a chrome extension
 
-// ### - 🔭 I’m currently working on ... 
+ - 🔭 I’m currently working on ... 
 
 ### - Tech Stack
 
