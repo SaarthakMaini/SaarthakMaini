@@ -39,11 +39,10 @@ My name is **Saarthak Maini**. I am an `open source contributer` and have a love
 <a href="https://www.linkedin.com/in/saarthak-maini-74849222a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></p>
-<a href="https://www.youtube.com/channel/UC9N3pihtB6JrB0BFF80i3SA">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>
 
+**Watch My Contribution Graph Get Eaten By A Snake** :snake:
 
+![snake gif](https://github.com/SaarthakMaini/SaarthakMaini/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **SaarthakMaini/SaarthakMaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
