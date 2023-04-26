@@ -1,21 +1,21 @@
-# Hi there!! 👋
-My name is **Saarthak Maini**. I am an `open source contributer` and have a love for `coding`! I document my work on different social platforms to review and get feedback on my progress!!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaarthakMaini" alt="SaarthakMaini" /> </p>
+<div align="center">
+ <h1>Welcome!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+<br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<br>
+
+## About Me 
+ 
+My name is **Saarthak Maini**. I am an `Open Source Contributer` and love `Coding`! I document my work on different social platforms to review and get feedback on my progress!!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SaarthakMaini" alt="SaarthakMaini" /> </p>
 
 
-###  - 🌱 I’m currently learning ...
-* Java
-* Data Structures and Algorithms
-* DevOps and Cloud computing
-* JavaScript
-* TypeScript
-* JQuery
-* Node.js
-* Making a chrome extension
+##  🌱 Fields I Specialize In
+### :computer: DevOps
+### :raising_hand: DevRel
+### :sparkler: React
 
- - 🔭 I’m currently working on ... 
-
-### - Tech Stack
+## Tech Stack
 
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=purple"/> 
@@ -32,7 +32,7 @@ My name is **Saarthak Maini**. I am an `open source contributer` and have a love
 
 
 ###  Connect with me!
-<p align="left">
+<p align=center">
   <a href="https://twitter.com/saartwts">
     <img src="https://img.shields.io/twitter/follow/saartwts?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
@@ -40,7 +40,7 @@ My name is **Saarthak Maini**. I am an `open source contributer` and have a love
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></p>
 
-**Watch My Contribution Graph Get Eaten By A Snake** :snake:
+### Watch My Contribution Graph Get Eaten By A Snake :snake:
 
 ![snake gif](https://github.com/SaarthakMaini/SaarthakMaini/blob/output/github-contribution-grid-snake.gif)
 
@@ -48,18 +48,4 @@ My name is **Saarthak Maini**. I am an `open source contributer` and have a love
 
 <a href="https://github.com/SaarthakMaini/SaarthakMaini/issues/4">![image](https://user-images.githubusercontent.com/94912101/234159192-39b5ad59-7684-487c-96ae-39bb07a32a45.png)</a>
 
-
-<!--
-**SaarthakMaini/SaarthakMaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
