@@ -43,9 +43,9 @@ My name is **Saarthak Maini**. I am an `Open Source Contributer` and love `Codin
 </p>
  
 ## My Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=SaarthakMaini&show_icons=true" alt="SaarthakMaini" /><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaarthakMaini"/></a></p>
 
-
+ 
 ###  Connect with me!
   <a href="https://twitter.com/saartwts">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
