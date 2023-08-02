@@ -63,15 +63,5 @@ My name is **Saarthak Maini**. I am an `Open Source Contributer` and love `Codin
     <img src="https://img.shields.io/badge/LinkFree-9146FF?style=for-the-badge&logo=linkfree&logoColor=white">
   </a>
 
-### Watch My Contribution Graph Get Eaten By A Snake :snake:
-
-![snake gif](https://github.com/SaarthakMaini/SaarthakMaini/blob/output/github-contribution-grid-snake.gif)
-
-### Thank You For Visiting! Please Feel Free To Comment In The GuestBook 😄:
-
-<a href="https://github.com/SaarthakMaini/SaarthakMaini/issues/4"> ![](https://gist.githubusercontent.com/traumverloren/6149296db236bde87056d1cb7bf726cd/raw/ca9c12edc622f5592745038c1ec24e5e2cdc158f/guestbook.gif)
-</a>
- 
-
 
  </div>
