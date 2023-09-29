@@ -59,8 +59,8 @@ My name is **Saarthak Maini**. I am an `Open Source Contributer` and love `Codin
   <a href="https://www.youtube.com/@saarthakmaini1819">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://linkfree.io/SaarthakMaini">
-    <img src="https://img.shields.io/badge/LinkFree-9146FF?style=for-the-badge&logo=linkfree&logoColor=white">
+  <a href="https://www.biodrop.io/SaarthakMaini">
+    <img src="https://img.shields.io/badge/BioDrop-9146FF?style=for-the-badge&logo=linkfree&logoColor=white">
   </a>
 
 
