@@ -6,7 +6,7 @@
 
 ## About Me 
  
-My name is **Saarthak Maini**. I am an `Open Source Contributer` and love `Coding`! I document my work on different social platforms to review and get feedback on my progress!!
+My name is **Saarthak Maini**. I am an `Open Source Contributer` and love `Coding`! I document my work on different social platforms to review and get feedback on my progress!!!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SaarthakMaini" alt="SaarthakMaini" /> </p>
 
 
